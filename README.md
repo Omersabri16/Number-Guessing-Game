@@ -26,8 +26,9 @@ The game has two difficulty levels: **easy** (10 attempts) and **hard** (5 attem
    ```bash
    cd Number-Guessing-Game
 3. Run the program:
- ```bash
+   ```bash
    python solution.py
+
 
 ## How it works
 ```text
